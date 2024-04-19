@@ -1,1 +1,21 @@
 /*  your css code here. If applicable */
+#main-hero{
+	background-color: #f5f5f5;
+	padding:10px
+}
+.testbox{
+	background-color: white;
+	margin:20px
+}
+h1{
+	margin-left:20px
+}
+.author{
+	font-style:italic;
+	text-align:right;
+	padding:10px;
+	
+}
+.test{
+	padding:10px
+}
